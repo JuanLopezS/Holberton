@@ -1,4 +1,4 @@
-### 0. <o>
+### 0. \<o\>
 
 Create a script that creates an `alias`.
 
@@ -255,18 +255,15 @@ julien@production-503e7013:~/$
 Write a blog post describing step by step what happens when you type ls *.c and hit Enter in your shell. Try to explain every step you know of, and give examples. A total beginner should understand what you have written.
 
 
-Add URLs here:
+#### Add URLs here:
 
- https://medium.com/@jclopez100/what-happens-when-you-type-ls-c-11472c4992a
- https://twitter.com/jclopez100/status/1173807492746362880
-Repo:
+[Link Blog](https://medium.com/@jclopez100/what-happens-when-you-type-ls-c-11472c4992a)
 
-GitHub repository: holberton-system_engineering-devops
+### 16. What is the difference between a hard link and a symbolic link?
 
-16. What is the difference between a hard link and a symbolic link?
+Write a blog post explaining what are hard and symbolic links on Linux, how to create them, and what is the difference between the two. Use examples to illustrate.
 
-
-Add URLs here:
+#### Add URLs here:
 
 [Link Blog](https://medium.com/@jclopez100/what-is-the-difference-between-a-hard-link-and-a-symbolic-link-310dd9fedcbc)
 
