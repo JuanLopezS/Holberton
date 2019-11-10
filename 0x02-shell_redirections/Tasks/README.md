@@ -86,7 +86,7 @@ $
 
 ### 4. Last lines of a file
 
-Display the last 10 lines of /etc/passwd
+Display the last 10 lines of `/etc/passwd`
 
 Example:
 ```
@@ -105,7 +105,7 @@ _krbfast:*:246:-2:Kerberos FAST Account:/var/empty:/usr/bin/false
 
 ### 5. I'd prefer the first ones actually
 
-Display the first 10 lines of /etc/passwd
+Display the first 10 lines of `/etc/passwd`
 
 Example:
 ```
@@ -328,7 +328,7 @@ julien@production-503e7013:~/shell/fun_with_the_shell$ ./11-directories
 julien@production-503e7013:~/shell/fun_with_the_shell$
 ```
 
-12. What’s new
+### 12. What’s new
 
 Create a script that displays the 10 newest files in the current directory.
 
@@ -504,7 +504,7 @@ esreveR
 julien@ubuntu:/tmp/0x02$ 
 ```
 
-22. DJ Cut Killer
+### 22. DJ Cut Killer
 
 Write a script that displays all users and their home directories, sorted by users.
 
@@ -688,7 +688,7 @@ ubuntu@ip-172-31-63-244:~/holbertonschool$
 
 ### 24. A gif is worth ten thousand words 
 
-Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+Write a script that lists all the files with a `.gif` extension in the current directory and all its sub-directories.
 
 * Hidden files should be listed
 * Only regular files (not directories) should be listed
@@ -766,7 +766,7 @@ ELIZABETH
 julien@ubuntu:/tmp/0x02$ 
 ```
 
-26. The biggest fan
+### 26. The biggest fan
 
 Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 
