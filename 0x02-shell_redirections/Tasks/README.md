@@ -82,6 +82,7 @@ daemon:*:1:1:System Services:/var/root:/usr/bin/false
 255.255.255.255 broadcasthost
 ::1 localhost
 $
+```
 
 ### 4. Last lines of a file
 
