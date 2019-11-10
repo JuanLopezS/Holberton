@@ -9,7 +9,7 @@ $ ./0-current_working_directory
 $
 ```
 
-### 1. What’s in there? mandatory
+### 1. What’s in there?
 
 Display the contents list of your current directory.
 
@@ -20,7 +20,7 @@ Applications    Documents   Dropbox Movies Pictures
 Desktop Downloads   Library Music Public
 $
 ```
-### 2. There is no place like home mandatory
+### 2. There is no place like home
 
 Write a script that changes the working directory to the user’s home directory.
 
@@ -36,7 +36,7 @@ julien@ubuntu:~$ pwd
 julien@ubuntu:~$
 ```
 
-### 3. The long format mandatory
+### 3. The long format 
 
 Display current directory contents in a long format
 
@@ -51,7 +51,7 @@ total 32
 $
 ```
 
-### 4. Hidden files mandatory
+### 4. Hidden files
 
 Display current directory contents, including hidden files (starting with .). Use the long format.
 
@@ -69,7 +69,7 @@ drwxr-xr-x@ 43 sylvain staff 1462 Jan 25 00:19 ..
 $
 ```
 
-### 5. I love numbers mandatory
+### 5. I love numbers
 
 Display current directory contents.
 
@@ -92,7 +92,7 @@ drwxr-xr-x@ 43 501 20 1462 Jan 25 00:19 ..
 $
 ```
 
-### 6. Welcome holberton mandatory
+### 6. Welcome holberton
 
 Create a script that creates a directory named holberton in the /tmp/ directory.
 
@@ -104,7 +104,7 @@ $ file /tmp/holberton/
 $
 ```
 
-### 7. Betty in Holberton mandatory
+### 7. Betty in Holberton
 
 Move the file betty from /tmp/ to /tmp/holberton.
 
@@ -116,7 +116,7 @@ betty
 $
 ```
 
-### 8. Bye bye Betty mandatory
+### 8. Bye bye Betty
 
 Delete the file betty.
 
@@ -128,7 +128,7 @@ $ ls /tmp/holberton/
 $
 ```
 
-### 9. Bye bye Holberton mandatory
+### 9. Bye bye Holberton
 
 Delete the directory holberton that is in the /tmp directory.
 
@@ -140,7 +140,7 @@ $ file /tmp/holberton
 $
 ```
 
-### 10. Back to the future mandatory
+### 10. Back to the future
 
 Write a script that changes the working directory to the previous one.
 ```
@@ -155,11 +155,11 @@ julien@ubuntu:/tmp$ pwd
 /tmp
 ```
 
-### 11. Lists mandatory
+### 11. Lists
 
 Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
-### 12. File type mandatory
+### 12. File type
 
 Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 
@@ -170,7 +170,7 @@ ubuntu@ip-172-31-63-244:~$ ./12-file_type
 ```
 Note that depending on the file, the output of your script will be different.
 
-### 13. We are symbols, and inhabit symbols mandatory
+### 13. We are symbols, and inhabit symbols
 
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 ```
@@ -186,13 +186,13 @@ drwxrwxrwt 12 root   root   139264 Sep 20 03:24 ..
 lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
 ```
 
-### 14. Copy HTML files mandatory
+### 14. Copy HTML files
 
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
 You can consider that all HTML files have the extension `.html`
 
-### 15. Let’s move mandatory
+### 15. Let’s move
 
 Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
@@ -225,7 +225,7 @@ drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
 -rw-rw-r-- 1 ubuntu ubuntu    0 Sep 20 03:32 Notrebloh
 ```
 
-### 16. Clean Emacs mandatory
+### 16. Clean Emacs
 
 Create a script that deletes all files in the current working directory that end with the character ~.
 ```
@@ -237,7 +237,7 @@ main.c
 ubuntu@ip-172-31-63-244:/tmp/emacs$
 ```
 
-### 17. Tree mandatory
+### 17. Tree
 
 Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
 
@@ -263,7 +263,7 @@ drwxrwxr-x 2 julien julien 4096 Sep 20 12:11 holberton
 julien@ubuntu:/tmp/h$
 ```
 
-### 18. Life is a series of commas, not periods mandatory
+### 18. Life is a series of commas, not periods
 
 Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
