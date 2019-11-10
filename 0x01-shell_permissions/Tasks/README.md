@@ -293,11 +293,11 @@ total 24
 julien@ubuntu:/tmp/h$
 ```
 
-### 17. Star Wars #advanced
+### 17. Star Wars
 
 Write a script that will play the StarWars IV episode in the terminal.
 
-### 18. RTFM #advanced
+### 18. RTFM
 
 Create a man page that looks exactly like this one and passes all checks.
 
